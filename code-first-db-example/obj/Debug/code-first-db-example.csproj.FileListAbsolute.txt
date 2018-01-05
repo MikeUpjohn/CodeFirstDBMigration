@@ -1,0 +1,13 @@
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\code-first-db-example.exe.config
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\code-first-db-example.exe
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\code-first-db-example.pdb
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\EntityFramework.dll
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\EntityFramework.xml
+D:\Projects\code-first-db-example\code-first-db-example\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code-first-db-example.csprojResolveAssemblyReference.cache
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code-first-db-example.csproj.CoreCompileInputs.cache
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code-first-db-example.exe
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code-first-db-example.pdb
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code_first_db_example.Migrations.InitialMigration.resources
+D:\Projects\code-first-db-example\code-first-db-example\obj\Debug\code-first-db-example.csproj.GenerateResource.Cache
